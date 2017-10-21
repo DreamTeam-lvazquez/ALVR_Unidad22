@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<suppliers>
+ 	 
+  <supplier>
+<id>SUP00001</id>
+<company>hg</company>
+<name>gh</name>
+<title>gh</title>
+<address>gh</address>
+</supplier>
+
+<supplier>
+<id>SUP00002</id>
+<company>13</company>
+<name>sfd</name>
+<title>24</title>
+<address>hjk</address>
+</supplier>
+
+</suppliers>
